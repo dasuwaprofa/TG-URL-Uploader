@@ -33,11 +33,11 @@ An example `config.py` file could be:
 from anydlbot.sample_config import Config
 
 class Development(Config):
-  APP_ID = 6
-  API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
-  TG_BOT_TOKEN = ""
+  APP_ID = 18759238
+  API_HASH = "2eb08ff18a7703758921b212757f2178"
+  TG_BOT_TOKEN = "5092000850:AAHDBP9sbEyzT7O6CYmMfe3iB-JldtjMtbo"
   AUTH_USERS = [
-    7351948
+    1502429328
   ]
 ```
 
@@ -62,7 +62,7 @@ generatecustomthumbnail - Generate customer thumbnail
 generatescss - Get Screenshot of Telegram Media
 ```
 
-- For FeedBack and Suggestions, please feel free to say in [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+- For FeedBack and Suggestions, please feel free to say in [@dasuking](https://t.me/nethmi_roshel)
 
 #### LICENSE
 - GPLv3
